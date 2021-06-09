@@ -8,7 +8,7 @@ public class Disciplina {
 		
 		Aluno Joao = new Aluno();
 		Disciplina disciplina = new Disciplina();
-		disciplina.adicionarAluno(0, Joao);
+		disciplina.adicionarAluno(0, Pedro);
 	
 	}
 	public void coletarMediaTurma() {
